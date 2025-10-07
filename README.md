@@ -1,7 +1,8 @@
-
 ## My name's Khanh 🥀
 
-![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ5eWUxd3FkMXo1dW95OWI3Z2pveTVxd205MXVzamc2ZXo2bWZsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnT45z6H5gxFYZZS/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQzNDgzNnY4amNsc3Z3ZXdib3Y5dGhidmFxdWR2eW85eG82Z2N4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLi3T5m3RH45y/giphy.gif" alt="Coding GIF" width="1000" />
+</p>
 
 ## 📊Github's stats
 <p align="center">
